@@ -1,0 +1,2960 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ireca\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-25 07:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.1; wp-5.7.2\n"
+"X-Domain: ireca"
+
+#: content/define_blocks_content.php:80
+msgid " 0 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:81
+msgid " 1 comment"
+msgstr ""
+
+#: woocommerce/rental/content-product_style1.php:50
+#: woocommerce/rental/content-product_3columns.php:98
+#: woocommerce/rental/content-product_2columns.php:96
+msgid " reviews"
+msgstr ""
+
+#: extend/customizer.php:4179
+msgid "\"From\" address"
+msgstr ""
+
+#: comments.php:12
+msgid "% Comments"
+msgstr ""
+
+#. 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:37
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:28
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: content/define_blocks_content.php:210
+msgid "&nbsp;(Edit)"
+msgstr ""
+
+#: woocommerce/rental/content-product_style1.php:63
+#: woocommerce/rental/content-product_style1.php:69
+#: woocommerce/rental/content-product_style2.php:59
+#: woocommerce/rental/content-product_style2.php:65
+#: woocommerce/rental/content-product_style3.php:58
+#: woocommerce/rental/content-product_style3.php:64
+#: woocommerce/rental/content-product_3columns.php:60
+#: woocommerce/rental/content-product_3columns.php:66
+#: woocommerce/rental/content-single-product.php:133
+#: woocommerce/rental/content-single-product.php:142
+#: woocommerce/rental/content-product_2columns.php:58
+#: woocommerce/rental/content-product_2columns.php:64
+#: woocommerce/rental/content-single-product2.php:134
+#: woocommerce/rental/content-single-product2.php:143
+msgid "/ Day"
+msgstr ""
+
+#: woocommerce/rental/content-product_style1.php:66
+#: woocommerce/rental/content-product_style2.php:62
+#: woocommerce/rental/content-product_style3.php:61
+#: woocommerce/rental/content-product_3columns.php:63
+#: woocommerce/rental/content-single-product.php:128
+#: woocommerce/rental/content-single-product.php:138
+#: woocommerce/rental/content-product_2columns.php:61
+#: woocommerce/rental/content-single-product2.php:129
+#: woocommerce/rental/content-single-product2.php:139
+msgid "/ Hour"
+msgstr ""
+
+#: extend/customizer.php:266 extend/customizer.php:567
+#: extend/customizer.php:774 extend/customizer.php:901
+#: extend/customizer.php:1202 extend/customizer.php:1522
+#: extend/customizer.php:1844
+msgid "0"
+msgstr ""
+
+#: comments.php:12
+msgid "0 Comments"
+msgstr ""
+
+#: extend/customizer.php:265 extend/customizer.php:566
+#: extend/customizer.php:773 extend/customizer.php:900
+#: extend/customizer.php:1201 extend/customizer.php:1521
+#: extend/customizer.php:1843
+msgid "0.1"
+msgstr ""
+
+#: extend/customizer.php:264 extend/customizer.php:565
+#: extend/customizer.php:772 extend/customizer.php:899
+#: extend/customizer.php:1200 extend/customizer.php:1520
+#: extend/customizer.php:1842
+msgid "0.2"
+msgstr ""
+
+#: extend/customizer.php:263 extend/customizer.php:564
+#: extend/customizer.php:771 extend/customizer.php:898
+#: extend/customizer.php:1199 extend/customizer.php:1519
+#: extend/customizer.php:1841
+msgid "0.3"
+msgstr ""
+
+#: extend/customizer.php:262 extend/customizer.php:563
+#: extend/customizer.php:770 extend/customizer.php:897
+#: extend/customizer.php:1198 extend/customizer.php:1518
+#: extend/customizer.php:1840
+msgid "0.4"
+msgstr ""
+
+#: extend/customizer.php:261 extend/customizer.php:562
+#: extend/customizer.php:769 extend/customizer.php:896
+#: extend/customizer.php:1197 extend/customizer.php:1517
+#: extend/customizer.php:1839
+msgid "0.5"
+msgstr ""
+
+#: extend/customizer.php:260 extend/customizer.php:561
+#: extend/customizer.php:768 extend/customizer.php:895
+#: extend/customizer.php:1196 extend/customizer.php:1516
+#: extend/customizer.php:1838
+msgid "0.6"
+msgstr ""
+
+#: extend/customizer.php:259 extend/customizer.php:560
+#: extend/customizer.php:767 extend/customizer.php:894
+#: extend/customizer.php:1195 extend/customizer.php:1515
+#: extend/customizer.php:1837
+msgid "0.7"
+msgstr ""
+
+#: extend/customizer.php:258 extend/customizer.php:559
+#: extend/customizer.php:766 extend/customizer.php:893
+#: extend/customizer.php:1194 extend/customizer.php:1514
+#: extend/customizer.php:1836
+msgid "0.8"
+msgstr ""
+
+#: extend/customizer.php:257 extend/customizer.php:558
+#: extend/customizer.php:765 extend/customizer.php:892
+#: extend/customizer.php:1193 extend/customizer.php:1513
+#: extend/customizer.php:1835
+msgid "0.9"
+msgstr ""
+
+#: extend/customizer.php:4485
+msgid ""
+"0: Sunday, 1: Monday, 2: Tuesday, 3: Wednesday, 4: Thursday, 5: Friday, 6: "
+"Saturday . Example: 0,6"
+msgstr ""
+
+#: extend/customizer.php:256 extend/customizer.php:557
+#: extend/customizer.php:764 extend/customizer.php:891
+#: extend/customizer.php:1192 extend/customizer.php:1512
+#: extend/customizer.php:1834
+msgid "1"
+msgstr ""
+
+#: extend/customizer.php:4338 extend/customizer.php:4543
+msgid "1 column"
+msgstr ""
+
+#: comments.php:12
+msgid "1 Comment"
+msgstr ""
+
+#: extend/customizer.php:4366 extend/customizer.php:4571
+msgid "10 columns"
+msgstr ""
+
+#: extend/customizer.php:4365 extend/customizer.php:4570
+msgid "11 columns"
+msgstr ""
+
+#: extend/customizer.php:4339 extend/customizer.php:4544
+msgid "2 columns"
+msgstr ""
+
+#: extend/customizer.php:2196
+msgid "2 Columns with Sidebar"
+msgstr ""
+
+#: extend/customizer.php:4340 extend/customizer.php:4545
+msgid "3 columns"
+msgstr ""
+
+#: extend/customizer.php:2197
+msgid "3 Columns no Sidebar"
+msgstr ""
+
+#: extend/customizer.php:4341 extend/customizer.php:4546
+msgid "4 columns"
+msgstr ""
+
+#: framework/init.php:741
+msgid "404 Page"
+msgstr ""
+
+#: extend/customizer.php:4342 extend/customizer.php:4547
+msgid "5 columns"
+msgstr ""
+
+#: extend/customizer.php:4343 extend/customizer.php:4370
+#: extend/customizer.php:4548 extend/customizer.php:4575
+msgid "6 columns"
+msgstr ""
+
+#: extend/customizer.php:4369 extend/customizer.php:4574
+msgid "7 columns"
+msgstr ""
+
+#: extend/customizer.php:4368 extend/customizer.php:4573
+msgid "8 columns"
+msgstr ""
+
+#: extend/customizer.php:4367 extend/customizer.php:4572
+msgid "9 columns"
+msgstr ""
+
+#: extend/add_js_css.php:1231 extend/add_js_css.php:1232
+msgctxt ": on or off"
+msgid "on"
+msgstr ""
+
+#: framework/init.php:529
+msgid "</ul></div>"
+msgstr ""
+
+#. Author of the theme
+msgid "<a href=\"https://themeforest.net/user/ovatheme\">Ovatheme</a>"
+msgstr ""
+
+#: framework/init.php:493
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: framework/init.php:506 framework/init.php:519
+msgid "<li><span class=\"pagi_dots\">...</span></li>"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: extend/customizer.php:3458
+msgid "Active Request Booking Form Tab instead of Description Tab"
+msgstr ""
+
+#: extend/ova_walker_nav_menu.php:203
+msgid "Add a menu"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:82
+msgid "Add a review"
+msgstr ""
+
+#: extend/metabox.php:254
+msgid "Address"
+msgstr ""
+
+#: extend/customizer.php:4441
+msgid "Albanian (Shqip)"
+msgstr ""
+
+#: wpml/hooks.php:33 wpml/hooks.php:99 wpml/hooks.php:165 wpml/hooks.php:475
+msgid "align"
+msgstr ""
+
+#: wpml/hooks.php:915
+msgid "Align tab"
+msgstr ""
+
+#: wpml/hooks.php:679
+msgid "align tab"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: dashboard link.
+#: framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: extend/metabox.php:40
+msgid "Allow display title of page"
+msgstr ""
+
+#: wpml/hooks.php:1443
+msgid "alt"
+msgstr ""
+
+#: extend/customizer.php:3346
+msgid "Always Open Table Price"
+msgstr ""
+
+#: wpml/hooks.php:878
+msgid "always show info"
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: framework/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: extend/customizer.php:4400
+msgid "Arabic"
+msgstr ""
+
+#: extend/breadcrumbs.php:48
+msgid "Archive by date"
+msgstr ""
+
+#: extend/breadcrumbs.php:53
+msgid "Archive by month"
+msgstr ""
+
+#: extend/breadcrumbs.php:109
+msgid "Archive by tag"
+msgstr ""
+
+#: extend/breadcrumbs.php:57
+msgid "Archive by year"
+msgstr ""
+
+#: wpml/hooks.php:594 wpml/hooks.php:835
+msgid "array slug"
+msgstr ""
+
+#: extend/breadcrumbs.php:113
+msgid "Articles posted by"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: extend/customizer.php:3039
+msgid "Ascending"
+msgstr ""
+
+#: wpml/hooks.php:951
+msgid "auto play speed"
+msgstr ""
+
+#: wpml/hooks.php:629
+msgid "auto_slide"
+msgstr ""
+
+#: wpml/hooks.php:1251 wpml/hooks.php:1310
+msgid "auto_slider"
+msgstr ""
+
+#: wpml/hooks.php:945
+msgid "autoplay"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-calendar.php:39
+msgid "Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:48
+msgid "Awaiting product image"
+msgstr ""
+
+#: extend/customizer.php:4401
+msgid "Azerbaijanian (Azeri)"
+msgstr ""
+
+#: extend/metabox.php:158
+msgid "Background Header"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wpml/hooks.php:1138
+msgid "bg_color"
+msgstr ""
+
+#: extend/breadcrumbs.php:115 framework/init.php:709
+msgid "Blog"
+msgstr ""
+
+#: extend/customizer.php:4219
+msgid "Blog Global"
+msgstr ""
+
+#: extend/customizer.php:33
+msgid "Body font"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:293
+msgid "Booking"
+msgstr ""
+
+#: extend/customizer.php:3636 woocommerce/rental/ovacrs-booking-form.php:20
+msgid "Booking Form"
+msgstr ""
+
+#: woocommerce/rental/content-single-product.php:58
+#: woocommerce/rental/content-single-product2.php:56
+msgid "Booking Now"
+msgstr ""
+
+#: wpml/hooks.php:392
+msgid "Border Left"
+msgstr ""
+
+#: extend/customizer.php:4403
+msgid "Bosanski"
+msgstr ""
+
+#: extend/metabox.php:204 extend/customizer.php:4315
+msgid "Boxed"
+msgstr ""
+
+#: wpml/hooks.php:1061
+msgid "btn target"
+msgstr ""
+
+#: wpml/hooks.php:1049
+msgid "btn text"
+msgstr ""
+
+#: wpml/hooks.php:1055
+msgid "btn_link"
+msgstr ""
+
+#: extend/customizer.php:4402
+msgid "Bulgarian"
+msgstr ""
+
+#: wpml/hooks.php:666
+msgid "butotn text"
+msgstr ""
+
+#: wpml/hooks.php:375
+msgid "Button link"
+msgstr ""
+
+#: wpml/hooks.php:380
+msgid "button target"
+msgstr ""
+
+#: wpml/hooks.php:369
+msgid "button text"
+msgstr ""
+
+#: extend/customizer.php:3493 extend/customizer.php:4380
+msgid "Calendar"
+msgstr ""
+
+#: extend/customizer.php:4395
+msgid "Calendar Language"
+msgstr ""
+
+#: extend/customizer.php:4404
+msgid "Català"
+msgstr ""
+
+#: wpml/hooks.php:561 wpml/hooks.php:772
+msgid "Category"
+msgstr ""
+
+#: wpml/hooks.php:184 wpml/hooks.php:271 wpml/hooks.php:318
+msgid "category"
+msgstr ""
+
+#: wpml/hooks.php:903
+msgid "centermode"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:105
+msgid "Choose Package"
+msgstr ""
+
+#: wpml/hooks.php:398 wpml/hooks.php:433 wpml/hooks.php:451
+msgid "Class"
+msgstr ""
+
+#: wpml/hooks.php:43 wpml/hooks.php:76 wpml/hooks.php:115 wpml/hooks.php:143
+#: wpml/hooks.php:171 wpml/hooks.php:253 wpml/hooks.php:498 wpml/hooks.php:547
+#: wpml/hooks.php:635 wpml/hooks.php:871 wpml/hooks.php:1012
+#: wpml/hooks.php:1067 wpml/hooks.php:1104 wpml/hooks.php:1144
+#: wpml/hooks.php:1184 wpml/hooks.php:1217 wpml/hooks.php:1275
+#: wpml/hooks.php:1334 wpml/hooks.php:1368 wpml/hooks.php:1420
+#: wpml/hooks.php:1455 wpml/hooks.php:1504
+msgid "class"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:224
+#: woocommerce/rental/ovacrs-item-info.php:371
+msgid "Close"
+msgstr ""
+
+#: wpml/hooks.php:524
+msgid "color"
+msgstr ""
+
+#: comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: content/define_blocks_content.php:84
+msgid "Comment off"
+msgstr ""
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: extend/customizer.php:4045
+msgid "Contact Form"
+msgstr ""
+
+#: extend/active_plugins.php:60
+msgid "Contact Form 7"
+msgstr ""
+
+#: wpml/hooks.php:23 wpml/hooks.php:61 wpml/hooks.php:94 wpml/hooks.php:132
+#: wpml/hooks.php:364 wpml/hooks.php:988 wpml/hooks.php:1353
+#: wpml/hooks.php:1397 wpml/hooks.php:1479
+msgid "content"
+msgstr ""
+
+#: wpml/hooks.php:1235 wpml/hooks.php:1294
+msgid "count"
+msgstr ""
+
+#: wpml/hooks.php:1240 wpml/hooks.php:1299
+msgid "count_ipad"
+msgstr ""
+
+#: wpml/hooks.php:1245 wpml/hooks.php:1304
+msgid "count_mobile"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Created by <a href=\"https://themeforest.net/user/ovatheme\">Ovatheme</a>"
+msgstr ""
+
+#: extend/customizer.php:114
+msgid "Custom Font"
+msgstr ""
+
+#: extend/customizer.php:3753
+msgid "d-m-Y"
+msgstr ""
+
+#: extend/customizer.php:4407
+msgid "Dansk"
+msgstr ""
+
+#: extend/customizer.php:2883 extend/customizer.php:3747
+msgid "Date Format"
+msgstr ""
+
+#: extend/customizer.php:4234
+msgid "Date Style"
+msgstr ""
+
+#: extend/customizer.php:3605
+msgid "Day"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:263
+msgid "Day(s)"
+msgstr ""
+
+#: extend/customizer.php:3040
+msgid "Decreasing"
+msgstr ""
+
+#: extend/customizer.php:2273 extend/customizer.php:2306
+#: extend/customizer.php:2331
+msgid "Default"
+msgstr ""
+
+#: framework/init.php:7 framework/init.php:22 framework/init.php:39
+#: framework/init.php:52
+msgid "default"
+msgstr ""
+
+#: extend/customizer.php:214
+msgid "Default Header"
+msgstr ""
+
+#: extend/customizer.php:515
+msgid "Default Header with Background"
+msgstr ""
+
+#: extend/customizer.php:2924 extend/customizer.php:3794
+msgid "Default Hour"
+msgstr ""
+
+#: extend/customizer.php:4255
+msgid "Default Icon Widget"
+msgstr ""
+
+#: extend/customizer.php:3598
+msgid "Default View"
+msgstr ""
+
+#: woocommerce/rental/deposit-form.php:20
+msgid "Deposit Option"
+msgstr ""
+
+#: wpml/hooks.php:1043 wpml/hooks.php:1178 wpml/hooks.php:1201
+msgid "desc"
+msgstr ""
+
+#: wpml/hooks.php:481 wpml/hooks.php:530
+msgid "Description"
+msgstr ""
+
+#: wpml/hooks.php:1448
+msgid "dis_popup"
+msgstr ""
+
+#: extend/customizer.php:4484
+msgid "Disabled Week Days"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: extend/metabox.php:159
+msgid "Display behind Menu"
+msgstr ""
+
+#: extend/customizer.php:3843 extend/customizer.php:4061
+msgid "Display Tab after Description or Review Tab"
+msgstr ""
+
+#: extend/metabox.php:255
+msgid "Drag the marker to set the exact location"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:123
+msgid "Drop-off Date"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:43
+msgid "Drop-off Location"
+msgstr ""
+
+#: wpml/hooks.php:1257 wpml/hooks.php:1316
+msgid "duration"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:273
+#: woocommerce/rental/ovacrs-item-info.php:283
+#: woocommerce/rental/ovacrs-item-info.php:346
+#: woocommerce/rental/ovacrs-item-info.php:356
+msgid "Duration (Days)"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:131
+#: woocommerce/rental/ovacrs-item-info.php:140
+#: woocommerce/rental/ovacrs-item-info.php:199
+#: woocommerce/rental/ovacrs-item-info.php:209
+msgid "Duration (Hours)"
+msgstr ""
+
+#: extend/customizer.php:4431
+msgid "Dutch"
+msgstr ""
+
+#: extend/customizer.php:4413
+msgid "Eesti"
+msgstr ""
+
+#: extend/active_plugins.php:94
+msgid "Elementor"
+msgstr ""
+
+#: comments.php:46 woocommerce/single-product-reviews.php:91
+msgid "Email"
+msgstr ""
+
+#: wpml/hooks.php:493
+msgid "email"
+msgstr ""
+
+#: extend/customizer.php:4162
+msgid "Email Sender"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:166
+#: woocommerce/rental/ovacrs-item-info.php:176
+#: woocommerce/rental/ovacrs-item-info.php:311
+#: woocommerce/rental/ovacrs-item-info.php:323
+msgid "End Date"
+msgstr ""
+
+#: extend/custom_metabox/add_custom_metabox.php:102
+msgid "End Date: "
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:69
+#: woocommerce/rental/ovacrs-item-info.php:82
+msgid "End Time"
+msgstr ""
+
+#: extend/customizer.php:4410
+msgid "English"
+msgstr ""
+
+#: extend/customizer.php:4411
+msgid "English (British) "
+msgstr ""
+
+#: extend/customizer.php:3904
+msgid "Error Page"
+msgstr ""
+
+#: extend/customizer.php:4414
+msgid "Euskara"
+msgstr ""
+
+#: extend/customizer.php:2943 extend/customizer.php:3813
+msgid "Example: 15, 20. List time to choose like 07:15, 07:30, 07:45, 08:00"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:241
+msgid "Extra Service"
+msgstr ""
+
+#: wpml/hooks.php:846
+msgid "Filters"
+msgstr ""
+
+#: wpml/hooks.php:605
+msgid "filters"
+msgstr ""
+
+#: extend/customizer.php:4416
+msgid "Finnish (Suomi)"
+msgstr ""
+
+#: extend/register_menu_widget.php:32
+msgid "Footer copyright"
+msgstr ""
+
+#: extend/customizer.php:2142
+msgid "Footer Global"
+msgstr ""
+
+#: extend/customizer.php:2326
+msgid "Footer Search Version"
+msgstr ""
+
+#: extend/metabox.php:167
+msgid "Footer Version"
+msgstr ""
+
+#: extend/customizer.php:2157
+msgid "Footer version"
+msgstr ""
+
+#: extend/customizer.php:4417
+msgid "French"
+msgstr ""
+
+#: woocommerce/rental/deposit-form.php:41
+msgid "Full Amount"
+msgstr ""
+
+#: extend/metabox.php:188 extend/customizer.php:4292 extend/customizer.php:4520
+msgid "Full Width"
+msgstr ""
+
+#: extend/customizer.php:4418
+msgid "Galego"
+msgstr ""
+
+#: extend/metabox.php:94
+msgid "Gallery image"
+msgstr ""
+
+#: extend/metabox.php:107 extend/customizer.php:2175
+msgid "General Settings"
+msgstr ""
+
+#: extend/customizer.php:4408
+msgid "German"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:127
+#: woocommerce/rental/ovacrs-item-info.php:269
+msgid "Global Discount"
+msgstr ""
+
+#: framework/init.php:21 framework/init.php:51
+msgid "Global in Customizer"
+msgstr ""
+
+#: extend/metabox.php:184 extend/metabox.php:202
+msgid "Global in customizer"
+msgstr ""
+
+#: extend/customizer.php:4283
+msgid "Global Layout for site"
+msgstr ""
+
+#: extend/customizer.php:133
+msgid "Global Setting"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid "Good"
+msgstr ""
+
+#: extend/customizer.php:4192
+msgid "Google API Settings"
+msgstr ""
+
+#: extend/customizer.php:2301
+msgid "Header Search Version"
+msgstr ""
+
+#: extend/customizer.php:2268
+msgid "Header style"
+msgstr ""
+
+#: extend/metabox.php:147
+msgid "Header Version"
+msgstr ""
+
+#: extend/customizer.php:149
+msgid "Header version"
+msgstr ""
+
+#: extend/customizer.php:849
+msgid "Header Version 1"
+msgstr ""
+
+#: extend/customizer.php:1150
+msgid "Header Version 2"
+msgstr ""
+
+#: extend/customizer.php:1470
+msgid "Header Version 3"
+msgstr ""
+
+#: extend/customizer.php:1792
+msgid "Header Version 4"
+msgstr ""
+
+#: extend/customizer.php:56
+msgid "Heading font"
+msgstr ""
+
+#: extend/customizer.php:4419
+msgid "Hebrew (עברית)"
+msgstr ""
+
+#: wpml/hooks.php:801
+msgid "height image"
+msgstr ""
+
+#: wpml/hooks.php:567
+msgid "height map"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+msgid "Hide Details"
+msgstr ""
+
+#: wpml/hooks.php:66 wpml/hooks.php:137
+msgid "highlight title"
+msgstr ""
+
+#: wpml/hooks.php:71 wpml/hooks.php:104
+msgid "highlight_icon"
+msgstr ""
+
+#: extend/breadcrumbs.php:9
+msgid "Home"
+msgstr ""
+
+#. Name of the template
+msgid "Home Template"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:261
+msgid "Hour(s)"
+msgstr ""
+
+#: extend/customizer.php:4420
+msgid "Hrvatski"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: extend/customizer.php:4421
+msgid "Hungarian"
+msgstr ""
+
+#: wpml/hooks.php:411 wpml/hooks.php:982 wpml/hooks.php:1132
+#: wpml/hooks.php:1172 wpml/hooks.php:1402
+msgid "icon"
+msgstr ""
+
+#: wpml/hooks.php:698
+msgid "Icon Navigation"
+msgstr ""
+
+#: extend/customizer.php:3019
+msgid "ID"
+msgstr ""
+
+#: extend/metabox.php:228
+msgid "ID Vehicle"
+msgstr ""
+
+#: extend/metabox.php:244
+msgid "ID Vehicle is in the location"
+msgstr ""
+
+#: extend/metabox.php:116
+msgid ""
+"If empty, The logo will get from Appearance >> Customize >> Header Global >> "
+"Logo"
+msgstr ""
+
+#: extend/metabox.php:123
+msgid ""
+"If empty, The logo will get from Appearance >> Customize >> Header Global >> "
+"Logo Mobile"
+msgstr ""
+
+#: extend/metabox.php:130
+msgid ""
+"If you empty, the color will use in Appearance >> Customize >> Typography "
+"setting >> Main Color"
+msgstr ""
+
+#: extend/metabox.php:138
+msgid ""
+"If you empty, the color will use in Appearance >> Customize >> Typography "
+"setting >> Second Color"
+msgstr ""
+
+#: wpml/hooks.php:445 wpml/hooks.php:1093 wpml/hooks.php:1381
+#: wpml/hooks.php:1438
+msgid "image"
+msgstr ""
+
+#: extend/metabox.php:95
+msgid "image in gallery post format"
+msgstr ""
+
+#: wpml/hooks.php:470 wpml/hooks.php:1026
+msgid "img"
+msgstr ""
+
+#: extend/customizer.php:4422
+msgid "Indonesian"
+msgstr ""
+
+#: extend/customizer.php:4180
+msgid "Insert email"
+msgstr ""
+
+#: extend/customizer.php:4256
+msgid "Insert Font Icon "
+msgstr ""
+
+#: extend/customizer.php:2507
+msgid "Insert ID of category like 42, 15"
+msgstr ""
+
+#: extend/customizer.php:2549
+msgid "Insert ID of type like 42, 15"
+msgstr ""
+
+#: extend/metabox.php:86
+msgid "Insert link audio or video use for video/audio post-format"
+msgstr ""
+
+#: extend/customizer.php:4098
+msgid "Insert shortcode contact form here"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: framework/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Name of the theme
+msgid "Ireca"
+msgstr ""
+
+#: extend/metabox.php:229
+msgid "It is Unique, No Special Character, Space"
+msgstr ""
+
+#: content/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: extend/customizer.php:4423
+msgid "Italian"
+msgstr ""
+
+#: wpml/hooks.php:421
+msgid "items"
+msgstr ""
+
+#: extend/customizer.php:4424
+msgid "Japanese"
+msgstr ""
+
+#: extend/customizer.php:4209
+msgid "Key"
+msgstr ""
+
+#: extend/customizer.php:4426
+msgid "Korean"
+msgstr ""
+
+#: extend/customizer.php:4425
+msgid "Korean (한국어)"
+msgstr ""
+
+#: extend/customizer.php:4428
+msgid "Latvian (Latviešu)"
+msgstr ""
+
+#: extend/customizer.php:4512
+msgid "Layout"
+msgstr ""
+
+#: extend/customizer.php:4268
+msgid "Layout Global"
+msgstr ""
+
+#: comments.php:43
+msgid "Leave a reply"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:84
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: extend/metabox.php:186 extend/customizer.php:4290 extend/customizer.php:4519
+msgid "Left Sidebar"
+msgstr ""
+
+#: extend/customizer.php:4467
+msgid ""
+"Like 07:00, 07:30, 08:00, 08:30, 09:00, 09:30, 10:00, 10:30, 11:00, 11:30, "
+"12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 15:30, 16:00, 16:30, 17:00, "
+"17:30, 18:00"
+msgstr ""
+
+#: wpml/hooks.php:536 wpml/hooks.php:1408 wpml/hooks.php:1432
+#: wpml/hooks.php:1484
+msgid "link"
+msgstr ""
+
+#: extend/metabox.php:85
+msgid "Link audio or video"
+msgstr ""
+
+#: extend/customizer.php:3606
+msgid "List"
+msgstr ""
+
+#: extend/customizer.php:4427
+msgid "Lithuanian (lietuvių) "
+msgstr ""
+
+#: extend/customizer.php:4111
+msgid "Location Settings"
+msgstr ""
+
+#: extend/customizer.php:169
+msgid "Logo"
+msgstr ""
+
+#: extend/metabox.php:115
+msgid "Logo Desktop"
+msgstr ""
+
+#: extend/metabox.php:122 extend/customizer.php:186
+msgid "Logo Mobile"
+msgstr ""
+
+#: wpml/hooks.php:1269 wpml/hooks.php:1328
+msgid "loop"
+msgstr ""
+
+#: extend/customizer.php:3754
+msgid "m/d/Y"
+msgstr ""
+
+#: extend/customizer.php:4429
+msgid "Macedonian (Македонски)"
+msgstr ""
+
+#: extend/active_plugins.php:83
+msgid "Mailchimp for wp"
+msgstr ""
+
+#: extend/metabox.php:129
+msgid "Main Color"
+msgstr ""
+
+#: extend/customizer.php:76
+msgid "Main color"
+msgstr ""
+
+#: extend/customizer.php:4359
+msgid "Main column"
+msgstr ""
+
+#: extend/customizer.php:4333 extend/customizer.php:4360
+#: extend/customizer.php:4538 extend/customizer.php:4565
+msgid "main column + sidebar column = 12 columns"
+msgstr ""
+
+#: extend/metabox.php:178
+msgid "Main Layout"
+msgstr ""
+
+#: extend/register_menu_widget.php:20 extend/register_menu_widget.php:22
+msgid "Main Sidebar"
+msgstr ""
+
+#: extend/customizer.php:234 extend/customizer.php:535
+#: extend/customizer.php:869 extend/customizer.php:1170
+#: extend/customizer.php:1490 extend/customizer.php:1812
+msgid "Menu Background Color"
+msgstr ""
+
+#: extend/customizer.php:1374 extend/customizer.php:1694
+#: extend/customizer.php:2039
+msgid "Menu Background Color Mobile"
+msgstr ""
+
+#: extend/customizer.php:251 extend/customizer.php:552
+#: extend/customizer.php:886 extend/customizer.php:1187
+#: extend/customizer.php:1507 extend/customizer.php:1829
+msgid "Menu Background Color Opacity"
+msgstr ""
+
+#: extend/customizer.php:759
+msgid "Menu Background Color Opacity Mobile"
+msgstr ""
+
+#: extend/customizer.php:354 extend/customizer.php:655
+#: extend/customizer.php:989 extend/customizer.php:1290
+#: extend/customizer.php:1610 extend/customizer.php:1932
+msgid "Menu Background Color Sticky"
+msgstr ""
+
+#: extend/customizer.php:2017
+msgid "Menu Color Mobile"
+msgstr ""
+
+#: extend/customizer.php:288 extend/customizer.php:589
+#: extend/customizer.php:923 extend/customizer.php:1224
+#: extend/customizer.php:1544 extend/customizer.php:1866
+msgid "Menu Link Color"
+msgstr ""
+
+#: extend/customizer.php:375 extend/customizer.php:676
+#: extend/customizer.php:1010 extend/customizer.php:1311
+#: extend/customizer.php:1631 extend/customizer.php:1953
+msgid "Menu Link Color Sticky"
+msgstr ""
+
+#: extend/active_plugins.php:89
+msgid "Metabox"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: extend/customizer.php:4430
+msgid "Mongolian (Монгол)"
+msgstr ""
+
+#: extend/customizer.php:3603
+msgid "Month"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-calendar.php:33
+msgid "more"
+msgstr ""
+
+#: comments.php:45 woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+#: comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: extend/metabox.php:46 extend/metabox.php:59 extend/customizer.php:208
+#: extend/customizer.php:2377 extend/customizer.php:2400
+#: extend/customizer.php:2422 extend/customizer.php:2445
+#: extend/customizer.php:2467 extend/customizer.php:2489
+#: extend/customizer.php:2532 extend/customizer.php:2575
+#: extend/customizer.php:2597 extend/customizer.php:2619
+#: extend/customizer.php:2641 extend/customizer.php:2666
+#: extend/customizer.php:2688 extend/customizer.php:2710
+#: extend/customizer.php:2732 extend/customizer.php:2754
+#: extend/customizer.php:2776 extend/customizer.php:2799
+#: extend/customizer.php:2821 extend/customizer.php:2843
+#: extend/customizer.php:2865 extend/customizer.php:3102
+#: extend/customizer.php:3124 extend/customizer.php:3147
+#: extend/customizer.php:3170 extend/customizer.php:3193
+#: extend/customizer.php:3215 extend/customizer.php:3240
+#: extend/customizer.php:3262 extend/customizer.php:3284
+#: extend/customizer.php:3307 extend/customizer.php:3330
+#: extend/customizer.php:3351 extend/customizer.php:3374
+#: extend/customizer.php:3396 extend/customizer.php:3418
+#: extend/customizer.php:3442 extend/customizer.php:3463
+#: extend/customizer.php:3486 extend/customizer.php:3515
+#: extend/customizer.php:3537 extend/customizer.php:3559
+#: extend/customizer.php:3582 extend/customizer.php:3658
+#: extend/customizer.php:3682 extend/customizer.php:3705
+#: extend/customizer.php:3728 extend/customizer.php:3867
+#: extend/customizer.php:3928 extend/customizer.php:3949
+#: extend/customizer.php:3971 extend/customizer.php:3992
+#: extend/customizer.php:4013 extend/customizer.php:4034
+#: extend/customizer.php:4084 extend/customizer.php:4134
+#: extend/customizer.php:4155
+msgid "No"
+msgstr ""
+
+#: extend/customizer.php:3629
+msgid "no"
+msgstr ""
+
+#. 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:218
+#: woocommerce/rental/ovacrs-item-info.php:365
+msgid "No Discount in this time"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: extend/metabox.php:187 extend/customizer.php:4291 extend/customizer.php:4517
+msgid "No Sidebar"
+msgstr ""
+
+#: extend/customizer.php:4432
+msgid "Norwegian"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:111
+msgid "Not that bad"
+msgstr ""
+
+#: content/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: wpml/hooks.php:160 wpml/hooks.php:1195 wpml/hooks.php:1474
+msgid "number"
+msgstr ""
+
+#: extend/customizer.php:2350
+msgid "Number Items Per Page"
+msgstr ""
+
+#: wpml/hooks.php:783
+msgid "number product display"
+msgstr ""
+
+#: extend/active_plugins.php:99
+msgid "One click demo import"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:123
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: extend/customizer.php:3014 extend/customizer.php:3034 wpml/hooks.php:795
+msgid "Order"
+msgstr ""
+
+#: wpml/hooks.php:287 wpml/hooks.php:334 wpml/hooks.php:617 wpml/hooks.php:858
+msgid "order"
+msgstr ""
+
+#: extend/customizer.php:3009 wpml/hooks.php:789
+msgid "Order By"
+msgstr ""
+
+#: wpml/hooks.php:282 wpml/hooks.php:329 wpml/hooks.php:852
+msgid "order by"
+msgstr ""
+
+#: wpml/hooks.php:611
+msgid "orderby"
+msgstr ""
+
+#: extend/active_plugins.php:117
+msgid "OvaTheme CRS"
+msgstr ""
+
+#: extend/active_plugins.php:110
+msgid "OvaTheme Ireca"
+msgstr ""
+
+#: content/content-page.php:16
+msgid "Page"
+msgstr ""
+
+#: content/content-page.php:12 content/define_blocks_content.php:98
+msgid "Pages:"
+msgstr ""
+
+#: wpml/hooks.php:1263 wpml/hooks.php:1322
+msgid "pagination"
+msgstr ""
+
+#: woocommerce/rental/deposit-form.php:38
+msgid "Pay Deposit"
+msgstr ""
+
+#: woocommerce/rental/deposit-form.php:34
+msgid "Per item"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+msgid "Perfect"
+msgstr ""
+
+#: extend/customizer.php:4415
+msgid "Persian"
+msgstr ""
+
+#: wpml/hooks.php:487
+msgid "phone"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:74
+msgid "Pick-up Date"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:27
+msgid "Pick-up Location"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+#: framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1206
+#: framework/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:394
+#: framework/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extend/customizer.php:4433
+msgid "Polish"
+msgstr ""
+
+#: extend/customizer.php:4434
+msgid "Portuguese"
+msgstr ""
+
+#: extend/customizer.php:4435
+msgid "Português(Brasil)"
+msgstr ""
+
+#: framework/init.php:729 framework/init.php:733
+msgid "Post Detail"
+msgstr ""
+
+#: extend/metabox.php:76
+msgid "Post Settings"
+msgstr ""
+
+#: content/content-post.php:142
+msgid "Posted by"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:67
+#: woocommerce/rental/ovacrs-item-info.php:78
+msgid "Price"
+msgstr ""
+
+#: extend/customizer.php:3017
+msgid "Price (per day)"
+msgstr ""
+
+#: extend/customizer.php:3018
+msgid "Price (per hour)"
+msgstr ""
+
+#: woocommerce/rental/content-product_style1.php:71
+#: woocommerce/rental/content-product_style1.php:73
+#: woocommerce/rental/content-product_style2.php:67
+#: woocommerce/rental/content-product_style2.php:69
+#: woocommerce/rental/content-product_style3.php:66
+#: woocommerce/rental/content-product_style3.php:68
+#: woocommerce/rental/content-product_3columns.php:68
+#: woocommerce/rental/content-product_3columns.php:70
+#: woocommerce/rental/content-product_2columns.php:66
+#: woocommerce/rental/content-product_2columns.php:68
+msgid "Price Option"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:274
+#: woocommerce/rental/ovacrs-item-info.php:284
+#: woocommerce/rental/ovacrs-item-info.php:312
+#: woocommerce/rental/ovacrs-item-info.php:324
+#: woocommerce/rental/ovacrs-item-info.php:357
+msgid "Price/Day"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:347
+msgid "Price/Day "
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:132
+#: woocommerce/rental/ovacrs-item-info.php:141
+#: woocommerce/rental/ovacrs-item-info.php:167
+#: woocommerce/rental/ovacrs-item-info.php:177
+#: woocommerce/rental/ovacrs-item-info.php:200
+#: woocommerce/rental/ovacrs-item-info.php:210
+msgid "Price/Hour"
+msgstr ""
+
+#: extend/register_menu_widget.php:6
+msgid "Primary Menu"
+msgstr ""
+
+#: wpml/hooks.php:642
+msgid "product style"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:148
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Rate&hellip;"
+msgstr ""
+
+#: extend/customizer.php:3016
+msgid "Rating"
+msgstr ""
+
+#: content/define_blocks_content.php:118
+msgid "Read more"
+msgstr ""
+
+#: wpml/hooks.php:231
+msgid "read more text"
+msgstr ""
+
+#: wpml/hooks.php:578
+msgid "Readmore text"
+msgstr ""
+
+#: content/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: extend/active_plugins.php:76
+msgid "Recent posts widget"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:255
+msgid "Regular Price / Day: "
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:113
+msgid "Regular Price / Hour: "
+msgstr ""
+
+#: extend/customizer.php:2506
+msgid "Remove Categories in dropdown"
+msgstr ""
+
+#: extend/customizer.php:2548
+msgid "Remove types in dropdown"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-calendar.php:44
+msgid "Rent full day: No . Rent Hour: Yes"
+msgstr ""
+
+#: woocommerce/rental/content-product_3columns.php:78
+#: woocommerce/rental/content-product_2columns.php:76
+msgid "Rent It"
+msgstr ""
+
+#: extend/customizer.php:3826
+msgid "Request Booking Form"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: extend/customizer.php:2859
+msgid "Required Input: Auto Park"
+msgstr ""
+
+#: extend/customizer.php:2748
+msgid "Required Input: Category"
+msgstr ""
+
+#: extend/customizer.php:2837
+msgid "Required Input: Gearbox"
+msgstr ""
+
+#: extend/customizer.php:2793
+msgid "Required Input: Manufaceturer"
+msgstr ""
+
+#: extend/customizer.php:2726
+msgid "Required Input: PickOff Date"
+msgstr ""
+
+#: extend/customizer.php:2682
+msgid "Required Input: PickOff Location"
+msgstr ""
+
+#: extend/customizer.php:2704
+msgid "Required Input: PickUp Date"
+msgstr ""
+
+#: extend/customizer.php:2660
+msgid "Required Input: PickUp Location"
+msgstr ""
+
+#: extend/customizer.php:2815
+msgid "Required Input: Steering"
+msgstr ""
+
+#: extend/customizer.php:2770
+msgid "Required Input: Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: extend/customizer.php:2993
+msgid "Result: Total attribute display"
+msgstr ""
+
+#: extend/customizer.php:2961
+msgid "Result: Total feature display"
+msgstr ""
+
+#: extend/customizer.php:2977
+msgid "Result: Total other feature display"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+#: framework/class-tgm-plugin-activation.php:912
+#: framework/class-tgm-plugin-activation.php:2618
+#: framework/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:40
+msgid "Reviews"
+msgstr ""
+
+#: extend/metabox.php:185 extend/customizer.php:4289 extend/customizer.php:4518
+msgid "Right Sidebar"
+msgstr ""
+
+#: extend/customizer.php:4436
+msgid "Romanian"
+msgstr ""
+
+#: extend/customizer.php:4437
+msgid "Russian"
+msgstr ""
+
+#: wpml/hooks.php:814
+msgid "scroll to"
+msgstr ""
+
+#: extend/breadcrumbs.php:31 framework/init.php:682 framework/init.php:705
+#: framework/init.php:713
+msgid "Search"
+msgstr ""
+
+#: wpml/hooks.php:829
+msgid "search by"
+msgstr ""
+
+#: extend/breadcrumbs.php:72
+msgid "Search results for"
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for: "
+msgstr ""
+
+#: extend/customizer.php:2284
+msgid "Search Settings"
+msgstr ""
+
+#: extend/metabox.php:137
+msgid "Second Color"
+msgstr ""
+
+#: extend/customizer.php:96
+msgid "Second color"
+msgstr ""
+
+#: extend/customizer.php:2158
+msgid "Select Global Footer. You can override Footer in config of Post/Page"
+msgstr ""
+
+#: extend/customizer.php:150
+msgid "Select Global Header. You can override Header in config of Post/Page"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:109
+msgid "Select Package"
+msgstr ""
+
+#: extend/customizer.php:3748
+msgid "Select the date format"
+msgstr ""
+
+#: extend/customizer.php:4443
+msgid "Serbian (Srpski)"
+msgstr ""
+
+#: extend/customizer.php:4442
+msgid "Serbian Cyrillic (Српски)"
+msgstr ""
+
+#: wpml/hooks.php:1098
+msgid "service"
+msgstr ""
+
+#: content/define_blocks_content.php:139
+msgid "Share: "
+msgstr ""
+
+#: extend/customizer.php:4097
+msgid "Shortcode contact form"
+msgstr ""
+
+#: extend/customizer.php:2635
+msgid "Show  Auto Park"
+msgstr ""
+
+#: extend/customizer.php:2613
+msgid "Show  Gearbox"
+msgstr ""
+
+#: extend/customizer.php:2591
+msgid "Show  Steering"
+msgstr ""
+
+#: extend/customizer.php:3943
+msgid "Show Address"
+msgstr ""
+
+#: wpml/hooks.php:753
+msgid "show attribute"
+msgstr ""
+
+#: wpml/hooks.php:704
+msgid "show available"
+msgstr ""
+
+#: extend/customizer.php:3141
+msgid "Show Booking Button"
+msgstr ""
+
+#: extend/customizer.php:3412
+msgid "Show booking form"
+msgstr ""
+
+#: wpml/hooks.php:109 wpml/hooks.php:1006
+msgid "show border"
+msgstr ""
+
+#: extend/metabox.php:53 extend/customizer.php:3118
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: extend/customizer.php:3390
+msgid "Show Calendar"
+msgstr ""
+
+#: extend/customizer.php:2483
+msgid "Show Category"
+msgstr ""
+
+#: wpml/hooks.php:219
+msgid "show category"
+msgstr ""
+
+#: wpml/hooks.php:225
+msgid "show comment"
+msgstr ""
+
+#: wpml/hooks.php:213
+msgid "show date"
+msgstr ""
+
+#: wpml/hooks.php:206
+msgid "show description"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+msgid "Show Details"
+msgstr ""
+
+#: wpml/hooks.php:710
+msgid "show dot"
+msgstr ""
+
+#: wpml/hooks.php:939
+msgid "show dots"
+msgstr ""
+
+#: extend/customizer.php:3256
+msgid "Show Excerpt"
+msgstr ""
+
+#: extend/customizer.php:4028
+msgid "Show Extra Info"
+msgstr ""
+
+#: extend/customizer.php:3699
+msgid "Show Extra Resource"
+msgstr ""
+
+#: wpml/hooks.php:293 wpml/hooks.php:340
+msgid "show extra resource"
+msgstr ""
+
+#: extend/customizer.php:4007
+msgid "Show Extra Service"
+msgstr ""
+
+#: extend/customizer.php:3278
+msgid "Show Feature"
+msgstr ""
+
+#: wpml/hooks.php:759
+msgid "show feature"
+msgstr ""
+
+#: extend/customizer.php:4078
+msgid "Show hide form"
+msgstr ""
+
+#: extend/customizer.php:3209
+msgid "Show Images"
+msgstr ""
+
+#: wpml/hooks.php:427 wpml/hooks.php:519 wpml/hooks.php:994
+msgid "show line"
+msgstr ""
+
+#: extend/customizer.php:3368
+msgid "Show Maintenance"
+msgstr ""
+
+#: extend/customizer.php:2569
+msgid "Show Manufaceturer"
+msgstr ""
+
+#: extend/customizer.php:202
+msgid "Show Menu Stick"
+msgstr ""
+
+#: wpml/hooks.php:692
+msgid "Show Navigation"
+msgstr ""
+
+#: wpml/hooks.php:933
+msgid "show Navigation"
+msgstr ""
+
+#: extend/customizer.php:3553
+msgid "Show Navigation Day"
+msgstr ""
+
+#: extend/customizer.php:3576
+msgid "Show Navigation List"
+msgstr ""
+
+#: extend/customizer.php:3509
+msgid "Show Navigation Month"
+msgstr ""
+
+#: extend/customizer.php:3531
+msgid "Show Navigation Week"
+msgstr ""
+
+#: extend/customizer.php:3922
+msgid "Show Number"
+msgstr ""
+
+#: extend/customizer.php:3301
+msgid "Show other Feature"
+msgstr ""
+
+#: extend/metabox.php:29
+msgid "Show Page Heading"
+msgstr ""
+
+#: extend/customizer.php:2461
+msgid "Show PickOff Date"
+msgstr ""
+
+#: extend/customizer.php:2416
+msgid "Show PickOff Location"
+msgstr ""
+
+#: extend/customizer.php:3676 extend/customizer.php:3986
+msgid "Show Pickoff Location"
+msgstr ""
+
+#: extend/customizer.php:2439
+msgid "Show PickUp Date"
+msgstr ""
+
+#: extend/customizer.php:2394 extend/customizer.php:3652
+#: extend/customizer.php:3965
+msgid "Show Pickup Location"
+msgstr ""
+
+#: extend/customizer.php:3187
+msgid "Show Price"
+msgstr ""
+
+#: wpml/hooks.php:722
+msgid "show Price"
+msgstr ""
+
+#: wpml/hooks.php:883
+msgid "show price"
+msgstr ""
+
+#: extend/customizer.php:3722 extend/customizer.php:3861
+msgid "Show Quantity"
+msgstr ""
+
+#: extend/customizer.php:3234
+msgid "Show Rating"
+msgstr ""
+
+#: wpml/hooks.php:741
+msgid "show rating star"
+msgstr ""
+
+#: wpml/hooks.php:747
+msgid "show rating text"
+msgstr ""
+
+#: extend/customizer.php:3623
+msgid "Show Read more in date"
+msgstr ""
+
+#: extend/customizer.php:3480
+msgid "Show Related Products"
+msgstr ""
+
+#: extend/customizer.php:3436
+msgid "Show request booking"
+msgstr ""
+
+#: extend/customizer.php:2371
+msgid "Show Search"
+msgstr ""
+
+#: wpml/hooks.php:673 wpml/hooks.php:909
+msgid "show tab"
+msgstr ""
+
+#: extend/customizer.php:3324
+msgid "Show Table Price"
+msgstr ""
+
+#: wpml/hooks.php:194
+msgid "show thumb"
+msgstr ""
+
+#: wpml/hooks.php:716
+msgid "show thumbnail"
+msgstr ""
+
+#: wpml/hooks.php:728
+msgid "show Time rental"
+msgstr ""
+
+#: wpml/hooks.php:888
+msgid "show time rental"
+msgstr ""
+
+#: extend/customizer.php:3096
+msgid "Show Title"
+msgstr ""
+
+#: wpml/hooks.php:735 wpml/hooks.php:893
+msgid "show Title"
+msgstr ""
+
+#: wpml/hooks.php:200
+msgid "show title"
+msgstr ""
+
+#: extend/metabox.php:39
+msgid "Show title of page"
+msgstr ""
+
+#: extend/customizer.php:2526
+msgid "Show Type"
+msgstr ""
+
+#: extend/customizer.php:3164
+msgid "Show Video Button"
+msgstr ""
+
+#: wpml/hooks.php:38 wpml/hooks.php:1497
+msgid "show_border"
+msgstr ""
+
+#: wpml/hooks.php:1358
+msgid "show_line"
+msgstr ""
+
+#: extend/customizer.php:4332
+msgid "Sidebar column"
+msgstr ""
+
+#: extend/customizer.php:4405
+msgid "Simplified Chinese"
+msgstr ""
+
+#: extend/customizer.php:4449
+msgid "Simplified Chinese (简体中文)"
+msgstr ""
+
+#: wpml/hooks.php:1032
+msgid "skew img"
+msgstr ""
+
+#: extend/active_plugins.php:124
+msgid "Slider Revolution"
+msgstr ""
+
+#: wpml/hooks.php:898
+msgid "slides to show"
+msgstr ""
+
+#: extend/customizer.php:4439
+msgid "Slovenčina"
+msgstr ""
+
+#: extend/customizer.php:4440
+msgid "Slovenščina"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: content/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: page.php:10
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: extend/customizer.php:4412
+msgid "Spanish"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:168
+#: woocommerce/rental/ovacrs-item-info.php:178
+#: woocommerce/rental/ovacrs-item-info.php:313
+#: woocommerce/rental/ovacrs-item-info.php:325
+msgid "Special Discount"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:161
+#: woocommerce/rental/ovacrs-item-info.php:306
+msgid "Special Time with Price"
+msgstr ""
+
+#: wpml/hooks.php:1206
+msgid "speedtime"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:165
+#: woocommerce/rental/ovacrs-item-info.php:175
+#: woocommerce/rental/ovacrs-item-info.php:310
+#: woocommerce/rental/ovacrs-item-info.php:322
+msgid "Start Date"
+msgstr ""
+
+#: extend/custom_metabox/add_custom_metabox.php:94
+msgid "Start Date: "
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:68
+#: woocommerce/rental/ovacrs-item-info.php:80
+msgid "Start Time"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: extend/customizer.php:115
+msgid ""
+"Step 1: Insert font-face in style.css file: Refer https://css-tricks."
+"com/snippets/css/using-font-face/.  Step 2: Insert name-font here. For "
+"example: name-font1, name-font2. Step 3: Refresh customize page to display "
+"new font in dropdown font field."
+msgstr ""
+
+#: extend/customizer.php:2942 extend/customizer.php:3812
+msgid "Step Time"
+msgstr ""
+
+#: wpml/hooks.php:28 wpml/hooks.php:248 wpml/hooks.php:1000 wpml/hooks.php:1211
+msgid "style"
+msgstr ""
+
+#: extend/customizer.php:4239
+msgid "Style 1"
+msgstr ""
+
+#: extend/customizer.php:2198
+msgid "Style 1 with Sidebar"
+msgstr ""
+
+#: extend/customizer.php:4240
+msgid "Style 2"
+msgstr ""
+
+#: extend/customizer.php:2199
+msgid "Style 2 with Sidebar"
+msgstr ""
+
+#: extend/customizer.php:2200
+msgid "Style 3 with Sidebar"
+msgstr ""
+
+#: wpml/hooks.php:686
+msgid "Style tab"
+msgstr ""
+
+#: extend/customizer.php:3056
+msgid "Style Template"
+msgstr ""
+
+#: extend/customizer.php:309 extend/customizer.php:610
+#: extend/customizer.php:944 extend/customizer.php:1245
+#: extend/customizer.php:1565 extend/customizer.php:1887
+msgid "Sub-Menu Background Color"
+msgstr ""
+
+#: extend/customizer.php:440 extend/customizer.php:741
+#: extend/customizer.php:1075 extend/customizer.php:1395
+#: extend/customizer.php:1715 extend/customizer.php:2062
+msgid "Sub-Menu Background Color Mobile"
+msgstr ""
+
+#: extend/customizer.php:484 extend/customizer.php:817
+#: extend/customizer.php:1119 extend/customizer.php:1439
+#: extend/customizer.php:1759 extend/customizer.php:2106
+msgid "Sub-Menu Background Color Mobile Sticky"
+msgstr ""
+
+#: extend/customizer.php:396 extend/customizer.php:697
+#: extend/customizer.php:1031 extend/customizer.php:1332
+#: extend/customizer.php:1652 extend/customizer.php:1974
+msgid "Sub-Menu Background Color sticky"
+msgstr ""
+
+#: extend/customizer.php:332 extend/customizer.php:633
+#: extend/customizer.php:967 extend/customizer.php:1268
+#: extend/customizer.php:1588 extend/customizer.php:1910
+msgid "Sub-Menu Link Color"
+msgstr ""
+
+#: extend/customizer.php:462 extend/customizer.php:795
+#: extend/customizer.php:1097 extend/customizer.php:1417
+#: extend/customizer.php:1737 extend/customizer.php:2084
+msgid "Sub-Menu Link Color Mobile"
+msgstr ""
+
+#: extend/customizer.php:506 extend/customizer.php:839
+#: extend/customizer.php:1141 extend/customizer.php:1461
+#: extend/customizer.php:1781 extend/customizer.php:2128
+msgid "Sub-Menu Link Color Mobile Sticky"
+msgstr ""
+
+#: extend/customizer.php:417 extend/customizer.php:718
+#: extend/customizer.php:1052 extend/customizer.php:1353
+#: extend/customizer.php:1673 extend/customizer.php:1995
+msgid "Sub-Menu Link Color sticky"
+msgstr ""
+
+#: wpml/hooks.php:1088
+msgid "sub_title"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Submit"
+msgstr ""
+
+#: comments.php:53
+msgid "Submit Comment"
+msgstr ""
+
+#: extend/customizer.php:4444
+msgid "Svenska"
+msgstr ""
+
+#: extend/customizer.php:4438
+msgid "Swedish"
+msgstr ""
+
+#: wpml/hooks.php:600 wpml/hooks.php:840
+msgid "tab active"
+msgstr ""
+
+#: wpml/hooks.php:921
+msgid "tab show image"
+msgstr ""
+
+#: wpml/hooks.php:927
+msgid "tab show title"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:35
+msgid "Table Price & Discount"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:248
+msgid "Table Price by Day"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:106
+msgid "Table Price by Hour"
+msgstr ""
+
+#: framework/init.php:721
+msgid "Tag"
+msgstr ""
+
+#: content/define_blocks_content.php:130
+msgid "Tags "
+msgstr ""
+
+#: wpml/hooks.php:542 wpml/hooks.php:976 wpml/hooks.php:1127
+#: wpml/hooks.php:1167 wpml/hooks.php:1414 wpml/hooks.php:1491
+msgid "target"
+msgstr ""
+
+#: extend/active_plugins.php:104
+msgid "Taxonomy Images"
+msgstr ""
+
+#: wpml/hooks.php:1229
+msgid "team"
+msgstr ""
+
+#: extend/customizer.php:3073
+msgid "Template"
+msgstr ""
+
+#: extend/customizer.php:3078
+msgid "Template 1"
+msgstr ""
+
+#: extend/customizer.php:3079
+msgid "Template 2"
+msgstr ""
+
+#: wpml/hooks.php:1288
+msgid "testimonials"
+msgstr ""
+
+#: wpml/hooks.php:386
+msgid "Text Color"
+msgstr ""
+
+#: wpml/hooks.php:299 wpml/hooks.php:346
+msgid "Text Submit"
+msgstr ""
+
+#: wpml/hooks.php:807
+msgid "text submit"
+msgstr ""
+
+#: wpml/hooks.php:1363
+msgid "text_color"
+msgstr ""
+
+#. %s: version number
+#: framework/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: extend/customizer.php:4445
+msgid "Thai"
+msgstr ""
+
+#: extend/customizer.php:3886
+msgid "Thank Page"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:395
+#: framework/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "There are no reviews yet."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:21
+msgid "This field is required."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extend/metabox.php:149 extend/metabox.php:169
+msgid "This value will override value in customizer"
+msgstr ""
+
+#: extend/metabox.php:179 extend/metabox.php:197
+msgid "This value will override value in theme customizer"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:187
+#: woocommerce/rental/ovacrs-item-info.php:334
+msgid "Time Discount: "
+msgstr ""
+
+#: extend/customizer.php:2902 extend/customizer.php:3773
+msgid "Time Format"
+msgstr ""
+
+#: extend/customizer.php:4466
+msgid "Time to book"
+msgstr ""
+
+#: extend/customizer.php:3020 wpml/hooks.php:18 wpml/hooks.php:56
+#: wpml/hooks.php:89 wpml/hooks.php:127 wpml/hooks.php:155 wpml/hooks.php:266
+#: wpml/hooks.php:313 wpml/hooks.php:359
+msgid "Title"
+msgstr ""
+
+#: wpml/hooks.php:416 wpml/hooks.php:464 wpml/hooks.php:513 wpml/hooks.php:965
+#: wpml/hooks.php:1037 wpml/hooks.php:1082 wpml/hooks.php:1116
+#: wpml/hooks.php:1156 wpml/hooks.php:1347 wpml/hooks.php:1387
+#: wpml/hooks.php:1468
+msgid "title"
+msgstr ""
+
+#: wpml/hooks.php:971
+msgid "title link"
+msgstr ""
+
+#: wpml/hooks.php:1122 wpml/hooks.php:1162
+msgid "title_link"
+msgstr ""
+
+#: wpml/hooks.php:1392
+msgid "title_padding"
+msgstr ""
+
+#. 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: header-default.php:84 header-version2.php:84 header-version3.php:94
+#: header-version1.php:127 header-version4.php:97
+msgid "Toggle navigation"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-booking-form.php:265
+msgid "Total"
+msgstr ""
+
+#: extend/customizer.php:2247
+msgid "Total attribute display"
+msgstr ""
+
+#: wpml/hooks.php:648
+msgid "total columns slide"
+msgstr ""
+
+#: wpml/hooks.php:189 wpml/hooks.php:276 wpml/hooks.php:323 wpml/hooks.php:778
+msgid "total count"
+msgstr ""
+
+#: extend/customizer.php:2215
+msgid "Total feature display"
+msgstr ""
+
+#: wpml/hooks.php:660
+msgid "total feature display"
+msgstr ""
+
+#: wpml/hooks.php:864
+msgid "total items cat"
+msgstr ""
+
+#: wpml/hooks.php:654
+msgid "total items column"
+msgstr ""
+
+#: extend/customizer.php:2231
+msgid "Total other feature display"
+msgstr ""
+
+#: extend/customizer.php:3015
+msgid "Total sales"
+msgstr ""
+
+#: wpml/hooks.php:623
+msgid "total_items_cat"
+msgstr ""
+
+#: extend/customizer.php:4450
+msgid "Traditional Chinese (繁體中文)"
+msgstr ""
+
+#: extend/customizer.php:4446
+msgid "Turkish"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: extend/customizer.php:2191
+msgid "Type display list page"
+msgstr ""
+
+#: extend/customizer.php:13
+msgid "Typography setting"
+msgstr ""
+
+#: extend/customizer.php:4447
+msgid "Ukrainian"
+msgstr ""
+
+#: extend/metabox.php:263
+msgid "Unavailable Time"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: extend/customizer.php:4128
+msgid "Use Location to Validate in Booking Vehicle"
+msgstr ""
+
+#: extend/customizer.php:4149
+msgid "Use Location to Validate in Search Vehicle"
+msgstr ""
+
+#: extend/customizer.php:2903 extend/customizer.php:3774
+msgid "Use params: H,i. Example: H:i"
+msgstr ""
+
+#: extend/customizer.php:2884
+msgid "Use params: Y,m,d. Example: Y-m-d"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:401
+msgid "Vehicle Maintenance"
+msgstr ""
+
+#: extend/metabox.php:215
+msgid "Vehicle Settings"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: extend/customizer.php:2274 extend/customizer.php:2307
+#: extend/customizer.php:2332
+msgid "Version 1"
+msgstr ""
+
+#: extend/customizer.php:2275 extend/customizer.php:2308
+#: extend/customizer.php:2333
+msgid "Version 2"
+msgstr ""
+
+#: extend/customizer.php:2276 extend/customizer.php:2309
+msgid "Version 3"
+msgstr ""
+
+#: extend/customizer.php:2277 extend/customizer.php:2310
+msgid "Version 4"
+msgstr ""
+
+#: framework/init.php:8 framework/init.php:23 framework/init.php:40
+#: framework/init.php:53
+msgid "version1"
+msgstr ""
+
+#: framework/init.php:9 framework/init.php:24 framework/init.php:41
+#: framework/init.php:54
+msgid "version2"
+msgstr ""
+
+#: framework/init.php:10 framework/init.php:25
+msgid "version3"
+msgstr ""
+
+#: framework/init.php:11 framework/init.php:26
+msgid "version4"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:112
+msgid "Very poor"
+msgstr ""
+
+#: extend/customizer.php:4448
+msgid "Vietnamese"
+msgstr ""
+
+#: wpml/hooks.php:243
+msgid "view all link"
+msgstr ""
+
+#: wpml/hooks.php:237
+msgid "view all text"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:180
+#: woocommerce/rental/ovacrs-item-info.php:327
+msgid "View Discount"
+msgstr ""
+
+#: comments.php:47
+msgid "Website"
+msgstr ""
+
+#: extend/customizer.php:3604
+msgid "Week"
+msgstr ""
+
+#: extend/metabox.php:203 extend/customizer.php:4314
+msgid "Wide"
+msgstr ""
+
+#: extend/active_plugins.php:70
+msgid "Widget importer exporter"
+msgstr ""
+
+#: extend/metabox.php:196 extend/customizer.php:4309
+msgid "Width of site"
+msgstr ""
+
+#: extend/customizer.php:4564
+msgid "Woo Main column"
+msgstr ""
+
+#: extend/customizer.php:4537
+msgid "Woo Sidebar column"
+msgstr ""
+
+#: extend/active_plugins.php:65
+msgid "Woocommerce"
+msgstr ""
+
+#: extend/customizer.php:4497
+msgid "Woocommerce setting"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: extend/customizer.php:3756
+msgid "Y-m-d"
+msgstr ""
+
+#: extend/customizer.php:3755
+msgid "Y/m/d"
+msgstr ""
+
+#: extend/metabox.php:45 extend/metabox.php:58 extend/customizer.php:207
+#: extend/customizer.php:2376 extend/customizer.php:2399
+#: extend/customizer.php:2421 extend/customizer.php:2444
+#: extend/customizer.php:2466 extend/customizer.php:2488
+#: extend/customizer.php:2531 extend/customizer.php:2574
+#: extend/customizer.php:2596 extend/customizer.php:2618
+#: extend/customizer.php:2640 extend/customizer.php:2665
+#: extend/customizer.php:2687 extend/customizer.php:2709
+#: extend/customizer.php:2731 extend/customizer.php:2753
+#: extend/customizer.php:2775 extend/customizer.php:2798
+#: extend/customizer.php:2820 extend/customizer.php:2842
+#: extend/customizer.php:2864 extend/customizer.php:3101
+#: extend/customizer.php:3123 extend/customizer.php:3146
+#: extend/customizer.php:3169 extend/customizer.php:3192
+#: extend/customizer.php:3214 extend/customizer.php:3239
+#: extend/customizer.php:3261 extend/customizer.php:3283
+#: extend/customizer.php:3306 extend/customizer.php:3329
+#: extend/customizer.php:3352 extend/customizer.php:3373
+#: extend/customizer.php:3395 extend/customizer.php:3417
+#: extend/customizer.php:3441 extend/customizer.php:3464
+#: extend/customizer.php:3485 extend/customizer.php:3514
+#: extend/customizer.php:3536 extend/customizer.php:3558
+#: extend/customizer.php:3581 extend/customizer.php:3657
+#: extend/customizer.php:3681 extend/customizer.php:3704
+#: extend/customizer.php:3727 extend/customizer.php:3866
+#: extend/customizer.php:3927 extend/customizer.php:3948
+#: extend/customizer.php:3970 extend/customizer.php:3991
+#: extend/customizer.php:4012 extend/customizer.php:4033
+#: extend/customizer.php:4083 extend/customizer.php:4133
+#: extend/customizer.php:4154
+msgid "Yes"
+msgstr ""
+
+#: extend/customizer.php:3628
+msgid "yes"
+msgstr ""
+
+#: extend/customizer.php:4062
+msgid "You can insert 9, 11, 21, 31"
+msgstr ""
+
+#: extend/customizer.php:3844
+msgid "You can insert 9, 11, 31"
+msgstr ""
+
+#: extend/customizer.php:4286
+msgid "You can override Layout in config of Post/Page"
+msgstr ""
+
+#: woocommerce/rental/ovacrs-item-info.php:406
+msgid "You cant rent car in this time"
+msgstr ""
+
+#: extend/breadcrumbs.php:117
+msgid "You got it Error 404 not Found"
+msgstr ""
+
+#: content/content-post.php:176
+msgid "You may also like"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:102
+msgid "You must be %slogged in%S to post a review."
+msgstr ""
+
+#: comments.php:51
+msgid "Your Comment ..."
+msgstr ""
+
+#: content/define_blocks_content.php:225
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:116
+msgid "Your review"
+msgstr ""
+
+#: wpml/hooks.php:572
+msgid "zoom map"
+msgstr ""
+
+#: extend/customizer.php:4406
+msgid "Čeština"
+msgstr ""
+
+#: extend/customizer.php:4409
+msgid "Ελληνικά"
+msgstr ""
